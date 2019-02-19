@@ -1,4 +1,4 @@
-package factory.interfaceFactory.factory.`0`.factory.interfaceFactory.factory;
+package factory.interfaceFactory.factory;
 
 import factory.interfaceFactory.IBreakFast;
 import factory.interfaceFactory.Tool;
