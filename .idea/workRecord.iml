@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/dockercompose-springboot-mysql-nginx" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-actuator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-admin-simple" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-banner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-commandLineRunner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-docker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-fastDFS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-file-upload" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-hello" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-helloWorld" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-jpa-thymeleaf-curd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-mail" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-memcache-spymemcached" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-mongodb" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-multi-mongodb" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-mybatis-annotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-mybatis-annotation-mulidatasource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-mybatis-mulidatasource" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-mybatis-xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-package-war" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-rabbitmq" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-scheduler" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-shiro" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-thymeleaf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-web" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring-boot-web-thymeleaf" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
