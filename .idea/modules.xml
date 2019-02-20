@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dockercompose-springboot-mysql-nginx/app/dockercompose-springboot-mysql-nginx.iml" filepath="$PROJECT_DIR$/dockercompose-springboot-mysql-nginx/app/dockercompose-springboot-mysql-nginx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-actuator/spring-boot-actuator.iml" filepath="$PROJECT_DIR$/spring-boot-actuator/spring-boot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-client/spring-boot-admin-client.iml" filepath="$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-client/spring-boot-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-server/spring-boot-admin-server.iml" filepath="$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-server/spring-boot-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-simple.iml" filepath="$PROJECT_DIR$/spring-boot-admin-simple/spring-boot-admin-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-banner/spring-boot-banner.iml" filepath="$PROJECT_DIR$/spring-boot-banner/spring-boot-banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-commandLineRunner/spring-boot-commandLineRunner.iml" filepath="$PROJECT_DIR$/spring-boot-commandLineRunner/spring-boot-commandLineRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-docker/spring-boot-docker.iml" filepath="$PROJECT_DIR$/spring-boot-docker/spring-boot-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-fastDFS/spring-boot-fastDFS.iml" filepath="$PROJECT_DIR$/spring-boot-fastDFS/spring-boot-fastDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-file-upload/spring-boot-file-upload.iml" filepath="$PROJECT_DIR$/spring-boot-file-upload/spring-boot-file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hello/spring-boot-hello.iml" filepath="$PROJECT_DIR$/spring-boot-hello/spring-boot-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-helloWorld/spring-boot-helloworld.iml" filepath="$PROJECT_DIR$/spring-boot-helloWorld/spring-boot-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jpa-thymeleaf-curd/spring-boot-jpa-thymeleaf-curd.iml" filepath="$PROJECT_DIR$/spring-boot-jpa-thymeleaf-curd/spring-boot-jpa-thymeleaf-curd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mail/spring-boot-mail.iml" filepath="$PROJECT_DIR$/spring-boot-mail/spring-boot-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-memcache-spymemcached/spring-boot-memcache-spymemcached.iml" filepath="$PROJECT_DIR$/spring-boot-memcache-spymemcached/spring-boot-memcache-spymemcached.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mongodb/spring-boot-mongodb.iml" filepath="$PROJECT_DIR$/spring-boot-mongodb/spring-boot-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-multi-mongodb/spring-boot-multi-mongodb.iml" filepath="$PROJECT_DIR$/spring-boot-multi-mongodb/spring-boot-multi-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/spring-boot-mybatis-annotation-mulidatasource.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-annotation-mulidatasource/spring-boot-mybatis-annotation-mulidatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/spring-boot-mybatis-mulidatasource.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-mulidatasource/spring-boot-mybatis-mulidatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-xml/spring-boot-mybatis-xml.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-xml/spring-boot-mybatis-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-package-war/spring-boot-package-war.iml" filepath="$PROJECT_DIR$/spring-boot-package-war/spring-boot-package-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rabbitmq/spring-boot-rabbitmq.iml" filepath="$PROJECT_DIR$/spring-boot-rabbitmq/spring-boot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-scheduler/spring-boot-scheduler.iml" filepath="$PROJECT_DIR$/spring-boot-scheduler/spring-boot-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" filepath="$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-thymeleaf/spring-boot-thymeleaf.iml" filepath="$PROJECT_DIR$/spring-boot-thymeleaf/spring-boot-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" filepath="$PROJECT_DIR$/spring-boot-web/spring-boot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-web-thymeleaf/spring-boot-web-thymeleaf.iml" filepath="$PROJECT_DIR$/spring-boot-web-thymeleaf/spring-boot-web-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workRecord.iml" filepath="$PROJECT_DIR$/.idea/workRecord.iml" />
+    </modules>
+  </component>
+</project>
